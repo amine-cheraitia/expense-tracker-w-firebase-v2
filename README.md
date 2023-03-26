@@ -1,6 +1,6 @@
 # expense-tracker-v2
-  
-## Project setup
+    
+## Project setup 
 
 ```
 npm install

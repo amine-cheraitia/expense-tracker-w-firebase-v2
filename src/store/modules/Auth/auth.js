@@ -1,6 +1,6 @@
 import axios from "axios";
 import router from "@/router";
-
+/* to do: switch on firebase  */
 export default {
 	namespaced: true,
 	state() {

@@ -1,5 +1,5 @@
 import axios from "axios";
-/* to do: switch on firebase  */
+/*  to do : switch on firebase  */
 export default {
 	namespaced: true,
 	state() {

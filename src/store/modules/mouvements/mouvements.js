@@ -14,15 +14,7 @@ export default {
 					user_id: 1,
 					ressource_id: 1,
 				},
-				{
-					id: 2,
-					description: "Achat fourniture",
-					montant: 30000,
-					date_mouvement: "2022-03-02",
-					type_mouvement_id: 2,
-					user_id: 1,
-					ressource_id: 3,
-				}, */
+				 */
 			],
 			totalEntré: 0,
 			totalSortie: 0,

@@ -13,7 +13,7 @@ export default {
 					type_mouvement_id: 1,
 					user_id: 1,
 					ressource_id: 1,
-				},
+				}
 				 */
 			],
 			totalEntré: 0,

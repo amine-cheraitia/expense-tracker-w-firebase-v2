@@ -12,7 +12,7 @@ export default {
 					date_mouvement: "2022-03-02",
 					type_mouvement_id: 1,
 					user_id: 1,
-					ressource_id: 1
+					ressource_id: 1,
 				}
 				 */
 			],

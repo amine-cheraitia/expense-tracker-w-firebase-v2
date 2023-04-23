@@ -1,4 +1,4 @@
-# expense-tracker-v2 a
+# expense-tracker-v2
     
 ## Project setup 
 
